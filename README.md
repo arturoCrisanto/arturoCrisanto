@@ -6,11 +6,11 @@
 <br/>
 
 <div align="center">
-🌱 I’m currently learning **Test Automation mostly at E2E cypress**
+<h3>🌱 I’m currently learning **Test Automation mostly at E2E cypress**🌱</h3>
+<h3>💬 Ask me about **cypress, playwright**</h3>
 
-💬 Ask me about **cypress, playwright**
-
-⚡ Fun fact **Coffee and test automation both thrive on precision. Just as coffee needs the perfect blend, test automation relies on meticulous scripting for flawless execution**
+<h2>⚡ Fun fact ⚡</h2> 
+<h3>**Coffee and test automation both thrive on precision. Just as coffee needs the perfect blend, test automation relies on meticulous scripting for flawless execution**</h3>
 
 <div align="center"> 
   <a href="arturocrisanto1@gmail.com">
@@ -20,7 +20,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
+<br>
+<br>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
