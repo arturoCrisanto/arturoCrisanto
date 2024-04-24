@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Kumusta+👋;+I'm+Ruz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Kumusta+👋;+I'm+Ruz!;" />
 </h1>
 <h3 align="center">Coffee-fueled Code Connoisseur: A Tech Enthusiast from the Philippines with a Passion for Test Automation</h3>
 
