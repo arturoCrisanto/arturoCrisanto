@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mark Ruzell Maray</h1>
+<h1 align="center">Hi 👋, ruz</h1>
 <h3 align="center">Coffee-fueled Code Connoisseur: A Tech Enthusiast from the Philippines with a Passion for Test Automation</h3>
 
 
