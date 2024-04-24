@@ -1,13 +1,14 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Kumusta+👋;+I'm+Ruz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Kumusta+👋;+I'm+Ruz+🐉+!;" />
 </h1>
-<h3 align="center">Coffee-fueled Code Connoisseur: A Tech Enthusiast from the Philippines with a Passion for Test Automation</h3>
+<h3 align="center">💻☕️
+Coffee-fueled Code Connoisseur: A Tech Enthusiast from the Philippines with a Passion for Test Automation👨🏻‍💻</h3>
 
 <br/>
 
 <div align="center">
-<h3>🌱 I’m currently learning **Test Automation mostly at E2E cypress**🌱</h3>
-<h3>💬 Ask me about **cypress, playwright**</h3>
+<h3>🌱💻 I’m currently learning **Test Automation mostly at E2E cypress**⚙️🌱</h3>
+<h3>💬☛ Ask me about **cypress, playwright**</h3>
 
 <h2>⚡ Fun fact ⚡</h2> 
 <h3>**Coffee and test automation both thrive on precision. Just as coffee needs the perfect blend, test automation relies on meticulous scripting for flawless execution**</h3>
