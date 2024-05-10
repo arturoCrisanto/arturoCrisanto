@@ -6,6 +6,7 @@ Coffee-fueled Code Connoisseur: A Tech Enthusiast from the Philippines with a Pa
 
 <br/>
 
+<img src=https://octodex.github.com/images/jetpacktocat.png alt="Mona the Octocat wearing a jetpack and smiling." width=300 align=right>
 <div align="center">
 <h3>🌱💻 I’m currently learning **Test Automation mostly at E2E cypress**⚙️🌱</h3>
 <h3>💬☛ Ask me about **cypress, playwright**</h3>
