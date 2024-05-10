@@ -1,8 +1,8 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Kumusta+👋;+I'm+Ruz+🐉+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Amatic+SC&size=75&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Kumusta+👋;+I%27m+Ruz+🙋‍♂️+!;&color=F66" />
 </h1>
-
+    
 ```javascript
 function getBio() {
     return {
@@ -22,14 +22,15 @@ for (const key in bio) {
     console.log(`${key}: ${bio[key]}`);
 }
 ```
-<div align="center"> 
+<br>
+<div align="center" style="font-family: 'Amatic SC', cursive; color: orange;"> 
   <a href="arturocrisanto1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/mark-ruzell-maray/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-    <a href="https://www.facebook.com/ruzell2143" target="_blank">
+  <a href="https://www.facebook.com/ruzell2143" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -64,6 +65,7 @@ for (const key in bio) {
     <img height="200" align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturoCrisanto&hide_progress=true_icons=true&theme=gruvbox&border_radius=30&card_width=700" />
   </a>
 </div>
+
 
 
 
