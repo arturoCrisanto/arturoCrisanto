@@ -61,7 +61,7 @@ for (const key in bio) {
     <br>
     <br>
   <a>
-    <img height="200" align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturoCrisanto&hide_progress=true_icons=true&theme=gruvbox&border_radius=30&card_width=600" />
+    <img height="200" align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturoCrisanto&hide_progress=true_icons=true&theme=gruvbox&border_radius=30&card_width=700" />
   </a>
 </div>
 
