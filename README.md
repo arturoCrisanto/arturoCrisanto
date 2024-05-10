@@ -54,7 +54,7 @@ for (const key in bio) {
 
 <h2 align="center">My So Called Stats</h2>
 
-<div style="display: flex; justify-content: center;">
+<div align="Center">
   <a>
     <img height="200" align="Center" src="https://github-readme-stats.vercel.app/api?username=arturoCrisanto&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=30" />
   </a>
