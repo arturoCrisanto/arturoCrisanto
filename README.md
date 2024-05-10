@@ -56,10 +56,10 @@ for (const key in bio) {
 
 <div style="display: flex; justify-content: center;">
   <a>
-    <img height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=arturoCrisanto&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=30" />
+    <img height="200" align="Center" src="https://github-readme-stats.vercel.app/api?username=arturoCrisanto&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=30" />
   </a>
   <a>
-    <img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturoCrisanto&hide_progress=true_icons=true&theme=gruvbox&border_radius=30&card_width=600" />
+    <img height="200" align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturoCrisanto&hide_progress=true_icons=true&theme=gruvbox&border_radius=30&card_width=600" />
   </a>
 </div>
 
