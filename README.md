@@ -54,11 +54,14 @@ for (const key in bio) {
 
 <h2 align="center">My So Called Stats</h2>
 
-<div align=center>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arturocrisanto&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arturocrisanto&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-
-  <br/>
+<div style="display: flex; justify-content: center;">
+  <a>
+    <img height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=arturoCrisanto&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=30" />
+  </a>
+  <a>
+    <img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturoCrisanto&hide_progress=true_icons=true&theme=gruvbox&border_radius=30&card_width=600" />
+  </a>
 </div>
+
 
 
