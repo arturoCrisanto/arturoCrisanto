@@ -17,10 +17,14 @@ function getBio() {
     };
 }
 
-const bio = getBio();
-for (const key in bio) {
-    console.log(`${key}: ${bio[key]}`);
+function printBio() {
+    const bio = getBio();
+    for (const [key, value] of Object.entries(bio)) {
+        console.log(`${key} ${value}`);
+    }
 }
+
+printBio();
 ```
 <br>
 <div align="center" style="font-family: 'Amatic SC', cursive; color: orange;"> 
@@ -34,26 +38,48 @@ for (const key in bio) {
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
 </div>
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{arturoCrisanto}/count.svg" alt="arturoCrisanto :: Visitor's Count" /></p>
+
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jaro&size=20&pause=1000&color=FFC300&center=true&repeat=false&random=true&width=441&height=60&lines=Visitor's+Count:" />
+    <p align="center"><img src="https://profile-counter.glitch.me/{arturoCrisanto}/count.svg" alt="arturoCrisanto :: Visitor's Count" /></p>
+</h2>
+
+
 
 <br>
 <br>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jaro&size=30&pause=1000&color=FFC300&center=true&repeat=false&random=true&width=441&height=60&lines=Language-Frameworks-tools" />
+</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,next,html,javascript,css,vscode,github,figma,tailwind,git,npm" />
-    <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,mongodb,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,mongodb" />
     <br>
-    <h2>Test Automation Tools</h2><br>
-    <img src="https://skillicons.dev/icons?i=cypress,gherkin" /><br>
 </div>
 
 <br>
+
+
+<div align="center">
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jaro&size=30&pause=1000&color=FFC300&center=true&repeat=false&random=true&width=441&height=60&lines=Test+Automation+Tools" />
+</h2>
+
+|  Testing Tools                                                                            | What i know                  |
+|-------------------------------------------------------------------------------------------|------------------------------|
+| <div align="center"><img src="https://skillicons.dev/icons?i=cypress" /><br>Cypress</div> | E2E testing, Test Scripts    |
+| <div align="center"><img src="https://skillicons.dev/icons?i=gherkin" /><br>Cucumber</div>| BDD, integration with Cypress|
+| <div align="center"><img src="https://skillicons.dev/icons?i=postman" /><br>Postman</div> | API testing                  |
+
+</div>
+<br>
 <br>
 
-<h2 align="center">My So Called Stats</h2>
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jaro&size=30&pause=1000&color=FFC300&center=true&repeat=false&random=true&width=441&height=60&lines=My+So+Called+Stats" />
+</h2>
 
 <div align="Center">
   <a>
