@@ -7,11 +7,11 @@
 function getBio() {
     return {
         "- ⚡ Quick bio:":                     "Coffee-fueled Code Connoisseur: A Tech Enthusiast from the Philippines with a Passion for Test Automation👨🏻‍💻",
-        "- 🔭 I’m currently working on":       "As a Quality Assurance Tester in Gaplabs",
-        "- 🌱 I’m currently learning":         "Cypress, Playwright, and Next.js --- Sharpening my Test Automation skills (Personal goal)",
-        "- 👯 I’m looking to collaborate on":  "Open Source Project where i can Test my Automation",
-        "- 🤔 I’m looking for help with":      "Anything related to what I am currently learning 😅",
-        "- 💬 Ask me about":                   "Test Automation preferably about Cypress",
+        "- 🔭 I’m currently working on":       "As a IT instructor at ADFC",
+        "- 🌱 I’m currently learning":         "NextJS with ORM For better code --- Sharpening my Test Automation skills (Personal goal)",
+        "- 👯 I’m looking to collaborate on":  "Open Source Project where i can enhance my Typescript",
+        "- 🤔 I’m looking for help with":      "Learning Typescript",
+        "- 💬 Ask me about":                   "Backend Developement specially in ExpressJs",
         "- ⚡ Fun Fact":                       "Coffee and test automation both thrive on precision.
                                                 Just as coffee needs the perfect blend, test automation relies on meticulous scripting for flawless execution"
     };
