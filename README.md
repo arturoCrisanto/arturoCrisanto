@@ -7,9 +7,9 @@
 function getBio() {
     return {
         "- ⚡ Quick bio:":                     "Coffee-fueled Code Connoisseur: A Tech Enthusiast from the Philippines with a Passion for Test Automation👨🏻‍💻",
-        "- 🔭 I’m currently working on":       "As a IT instructor at ADFC",
+        "- 🔭 I’m currently working on":       "As an IT instructor at ADFC",
         "- 🌱 I’m currently learning":         "NextJS with ORM For better code --- Sharpening my Test Automation skills (Personal goal)",
-        "- 👯 I’m looking to collaborate on":  "Open Source Project where i can enhance my Typescript",
+        "- 👯 I’m looking to collaborate on":  "Open Source Project where i can enhance my Typescript skills",
         "- 🤔 I’m looking for help with":      "Learning Typescript",
         "- 💬 Ask me about":                   "Backend Developement specially in ExpressJs",
         "- ⚡ Fun Fact":                       "Coffee and test automation both thrive on precision.
